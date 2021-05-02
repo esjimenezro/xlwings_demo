@@ -1,0 +1,6 @@
+pandas-datareader==0.9.0
+scikit-learn==0.24.2
+matplotlib==3.4.1
+xlwings==0.23.1
+pandas==1.2.4
+numpy==1.20.2
